@@ -27,8 +27,11 @@
 ![Github](http://zh.mweb.im/asset/img/set-up-git.gif)
 
 链接
+
 email <example@example.com>
+
 [GitHub](http://github.com)
+
 自动生成链接 <http://www.github.com>
 
 区块引用
