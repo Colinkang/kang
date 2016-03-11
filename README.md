@@ -60,11 +60,11 @@ Note right of 李四:李四愣一下，说：
 
 
 ```flow
-st=>start: 开始
-e=>end: 结束
-op=>operation: 我的操作1
-op2=>operation: 我的操作2
-cond=>condition: 确认？
+st=>start: start
+e=>end: end
+op=>operation: op1
+op2=>operation: op2
+cond=>condition: makesure？
 
 st->op->op2->cond
 cond(yes)->e
