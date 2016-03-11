@@ -34,6 +34,7 @@ email <example@example.com>
 区块引用
 某某说：
 > 第一行引用
+
 > 第二行费用文字
 
 行内代码
@@ -49,11 +50,13 @@ alert(arg);
 ```
 顺序图或者流程图
 
+
 ```sequence
 张三->李四:嘿，小四儿，写博客没？
 Note right of 李四:李四愣一下，说：
 李四-->张三:忙的吐血，哪有时间写。
 ```
+
 
 
 ```flow
@@ -86,7 +89,7 @@ cond(no)->op
 
 Math
 
-$$ x=\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+$$  x=\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}  $$
 
 
 
